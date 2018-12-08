@@ -111,7 +111,7 @@ var splitString;
  *
  * Takes in an array of strings and returns the length of the last string.
  *
- * @param {String}
+ * @param {Array}
  * @return {Number}
  */
 var lengthOfLast;
@@ -129,7 +129,7 @@ var sumBelowTen;
  *
  * Takes in an array of strings and returns the amount of elements that have more than ten letters.
  *
- * @param {String}
+ * @param {Array}
  * @return {Number}
  */
 var moreThanTenLetters;
@@ -147,7 +147,7 @@ var multiplyAll;
  *
  * Takes in an array of numbers and returns the sum of all non-negative numbers.
  *
- * @param {String}
+ * @param {Array}
  * @return {Number}
  */
 var sumAllPositive;
@@ -204,7 +204,7 @@ var makeObject;
  *
  * @param {String}
  * @param {String}
- * @return {Bool}
+ * @return {Object}
  */
 var makeObjectReverse;
 
