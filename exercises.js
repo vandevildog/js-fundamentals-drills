@@ -57,7 +57,7 @@ var countStrings;
  *
  * Takes in an array of strings and returns the sum of all string lengths.
  *
- * @param {String}
+ * @param {Array}
  * @return {Number}
  */
 var countAllStrings;
@@ -85,7 +85,7 @@ var objectSize;
  * Takes in a number and fills an array with that number of zeroes.
  *
  * @param {Number}
- * @return {Zero}
+ * @return {Array}
  */
 var createZeroFilledArray;
 
