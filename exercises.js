@@ -13,7 +13,7 @@ var doubleArray;
  *
  * @param {Array}
  * @param {Array}
- * @return {Bool}
+ * @return {Number}
  */
 var sumArrays;
 
