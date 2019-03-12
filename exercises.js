@@ -7,6 +7,9 @@
  */
 var doubleArray;
 
+console.log(doubleArray)
+
+
 /* #sumArrays
  *
  * Takes in two arrays of numbers and returns the sum of both arrays.
